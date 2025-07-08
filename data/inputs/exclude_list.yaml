@@ -1,0 +1,7 @@
+# There are words that are commonly used in language models that may also be products of year over year vocabulary change and should be ignored. 
+# When they do come up, they are so frequent they are so frequent they drown out the actual LAB words.
+excluded_words:
+  - word: "growth"
+    reason: "Given that the term 'growth factors' is in our prompt, it is often spit back by GPT or Claude."
+  - word: "company"
+    reason: "Companies often times switch from calling themselves 'we' to 'The Company' in between years, getting this word flagged"
