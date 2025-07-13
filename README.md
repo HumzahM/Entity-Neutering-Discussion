@@ -1,10 +1,7 @@
 # Entity-Neutering-Discussion
 ![NBER](https://github.com/HumzahM/Entity-Neutering-Discussion/blob/main/NBER.png)
 
-By Bradford Levy and Humzah Merchant (UChicago '26) 
-
-Shameless Plug: I'm applying for PhD programs in the fall related to Econometrics, ML, and Finance. 
-I previously worked as an engineer at Apollo Global Management and with Dr. Larry Harris at USC Marshall. Please check me out / add me on [Linkedin](https://www.linkedin.com/in/humzahmerchant/)
+By Bradford Levy and [Humzah Merchant](https://www.linkedin.com/in/humzahmerchant/) (UChicago '26) 
 
 ## Overview
 Everything was ran in Python 3.10.12, with the virtual enviroment in `requirements.txt` \
